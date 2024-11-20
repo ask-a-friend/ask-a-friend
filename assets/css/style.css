@@ -24,11 +24,14 @@ body {
     grid-template-columns: repeat(auto-fit, minmax(150px, 400px));
     grid-gap: 1em 1em;
     justify-content: space-around;
-
-  
+ 
 }
 
-
+.container img{
+    width: 100%; 
+    height: auto; 
+    display: block; 
+}
 
 .item-1{
   padding-top: 10px;
