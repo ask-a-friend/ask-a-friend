@@ -1,5 +1,5 @@
 body {
-  font-family: "CompagnonItalic";
+  font-family: "CompagnonLight";
   background: white;
   color: black;
   display: block;
@@ -8,6 +8,14 @@ body {
 	font-size: 16px;
   height: 100vh;
 	overflow: auto;
+}
+
+@font-face {
+  font-family: CompagnonLight;
+  src:url(../fonts/Compagnon-Light.woff) format("woff"),
+      url(../fonts/Compagnon-Light.woff2) format("woff2");
+  font-weight:200;
+  font-style:normal;
 }
 
 .container{
