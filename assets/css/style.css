@@ -1,12 +1,12 @@
 @font-face {
     font-family: 'Compagnon';
-    src: url('https://github.com/ask-a-friend/ask-a-friend/blob/main/assets/fonts/Compagnon-Italic.woff') format('woff2'),
+    src: url('https://github.com/ask-a-friend/ask-a-friend/blob/main/assets/fonts/Compagnon-Italic.woff') format('woff2');
     font-weight: light;
     font-style: italic;
 }
 
 body {
-  font-family: Compagnon-italic;
+  font-family: Compagnon-Italic;
   background: white;
   color: black;
   display: block;
