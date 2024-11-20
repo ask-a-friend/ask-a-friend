@@ -1,5 +1,5 @@
 body {
-  font-family: "CompagnonLight";
+  font-family: 'CompagnonLight';
   background: white;
   color: black;
   display: block;
@@ -11,7 +11,7 @@ body {
 }
 
 @font-face {
-  font-family: CompagnonLight;
+  font-family: 'CompagnonLight';
   src:url(../fonts/Compagnon-Light.woff) format("woff"),
       url(../fonts/Compagnon-Light.woff2) format("woff2");
   font-weight:200;
